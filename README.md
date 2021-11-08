@@ -1,2 +1,2 @@
 # a3web(test)
-Repository created for GEOM101 Assignment 3
+Repository created for testing GEOM101 Assignment 3
